@@ -1,0 +1,24 @@
+import { ProductItem } from './ProductItem';
+
+interface SearchResultsProps {
+  results: Array<{
+    id: number;
+    price: number;
+    title: string;
+  }>;
+}
+
+export function SearchResults({ results }: SearchResultsProps) {
+  return (
+    <div>
+      <h1>Results</h1>
+      {results.map((product) => {
+        return (
+          <>
+            <ProductItem key={product.id} product={product} />
+          </>
+        );
+      })}
+    </div>
+  );
+}
