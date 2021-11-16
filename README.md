@@ -36,3 +36,9 @@ _When use:_
 - Used to memorize a value, a result
 - Heavy calculations
 - Referential equality (when we pass information to a child component)
+
+#### 🍩 useCallback
+
+_When use:_
+
+- Used only to memorize a function
