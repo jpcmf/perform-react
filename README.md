@@ -18,7 +18,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## 📝 Anotations
 
-### ⚙️ Optimizations
+### ⚙️ Optimizing Performance
 
 #### 🍩 Memo
 
@@ -28,3 +28,10 @@ _When use:_
 - Renders too often
 - Re-renders with the same props
 - Memo works fine with medium or big size components
+
+#### 🍩 useMemo
+
+_When use:_
+
+- Heavy calculations
+- Referential equality (when we pass information to a child component)
