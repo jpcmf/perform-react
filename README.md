@@ -33,5 +33,6 @@ _When use:_
 
 _When use:_
 
+- Used to memorize a value, a result
 - Heavy calculations
 - Referential equality (when we pass information to a child component)
