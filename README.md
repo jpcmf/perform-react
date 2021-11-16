@@ -18,7 +18,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## 📝 Anotations
 
-### ⚙️ Otimizations
+### ⚙️ Optimizations
 
 #### 🍩 Memo
 
