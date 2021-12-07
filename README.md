@@ -80,3 +80,7 @@ _When use:_
 _When use:_
 
 - Allows only items that are visible in the user's browser to be viewed on screen
+
+---
+
+Made with 💜 by João Paulo Fricks
