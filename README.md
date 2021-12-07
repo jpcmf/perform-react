@@ -56,3 +56,9 @@ _When use:_
 _When use:_
 
 - Used only to memorize a function
+
+#### 🍩 Data formatting
+
+_When use:_
+
+- Used at the time you fetch the information, not the time the information will be displayed
