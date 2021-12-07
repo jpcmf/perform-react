@@ -68,3 +68,9 @@ _When use:_
 _When use:_
 
 - Used at the time you need to import a file, a component or a function just at the moment we need to use it
+
+#### 🍩 Virtualization
+
+_When use:_
+
+- Allows only items that are visible in the user's browser to be viewed on screen
