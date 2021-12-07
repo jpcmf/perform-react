@@ -62,3 +62,9 @@ _When use:_
 _When use:_
 
 - Used at the time you fetch the information, not the time the information will be displayed
+
+#### 🍩 Code-Splitting
+
+_When use:_
+
+- Used at the time you need to import a file, a component or a function just at the moment we need to use it
